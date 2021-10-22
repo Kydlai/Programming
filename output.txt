@@ -1,0 +1,147 @@
+AegislashBlade Expert из команды белых вступает в бой!
+Illumise Bread из команды желтых вступает в бой!
+Illumise Bread атакует. 
+AegislashBlade Expert теряет 1 здоровья.
+
+AegislashBlade Expert атакует. 
+Illumise Bread теряет 3 здоровья.
+
+Illumise Bread атакует. 
+AegislashBlade Expert парализован
+
+AegislashBlade Expert атакует. 
+Критический удар!
+Illumise Bread теряет 19 здоровья.
+Illumise Bread теряет сознание.
+Stunky Guy из команды желтых вступает в бой!
+Stunky Guy промахивается
+
+AegislashBlade Expert атакует. 
+Критический удар!
+Stunky Guy теряет 3 здоровья.
+
+Stunky Guy промахивается
+
+
+Stunky Guy промахивается
+
+
+Stunky Guy промахивается
+
+
+Stunky Guy атакует. 
+AegislashBlade Expert теряет 1 здоровья.
+AegislashBlade Expert не замечает воздействие типа NORMAL
+
+
+Stunky Guy промахивается
+
+AegislashBlade Expert атакует. 
+Критический удар!
+Stunky Guy теряет 3 здоровья.
+
+Stunky Guy атакует. 
+AegislashBlade Expert теряет 1 здоровья.
+AegislashBlade Expert не замечает воздействие типа NORMAL
+
+AegislashBlade Expert атакует. 
+Критический удар!
+Stunky Guy теряет 3 здоровья.
+
+Stunky Guy промахивается
+
+AegislashBlade Expert атакует. 
+Критический удар!
+Stunky Guy теряет 3 здоровья.
+
+AegislashBlade Expert атакует. 
+Stunky Guy увеличивает специальную защиту.
+
+Stunky Guy атакует. 
+AegislashBlade Expert теряет 1 здоровья.
+AegislashBlade Expert не замечает воздействие типа NORMAL
+
+Stunky Guy промахивается
+
+AegislashBlade Expert атакует. 
+Критический удар!
+Stunky Guy теряет 3 здоровья.
+Stunky Guy теряет сознание.
+Honedge Weat из команды желтых вступает в бой!
+AegislashBlade Expert атакует. 
+Критический удар!
+Honedge Weat теряет 5 здоровья.
+
+Honedge Weat атакует. 
+AegislashBlade Expert теряет 3 здоровья.
+
+Honedge Weat атакует. 
+AegislashBlade Expert теряет 2 здоровья.
+
+
+AegislashBlade Expert атакует. 
+Honedge Weat увеличивает специальную защиту.
+
+Honedge Weat атакует. 
+AegislashBlade Expert теряет 3 здоровья.
+AegislashBlade Expert не замечает воздействие типа FIGHTING
+
+Honedge Weat атакует. 
+AegislashBlade Expert теряет 2 здоровья.
+AegislashBlade Expert теряет сознание.
+Skuntank Warrior из команды белых вступает в бой!
+Skuntank Warrior промахивается
+
+Honedge Weat атакует. 
+Skuntank Warrior теряет 5 здоровья.
+
+Skuntank Warrior промахивается
+
+Honedge Weat атакует. 
+Skuntank Warrior теряет 3 здоровья.
+
+Skuntank Warrior промахивается
+
+Honedge Weat атакует. 
+Skuntank Warrior теряет 6 здоровья.
+Skuntank Warrior теряет сознание.
+Doublade Defender из команды белых вступает в бой!
+Doublade Defender атакует. 
+Honedge Weat теряет 2 здоровья.
+
+Honedge Weat атакует. 
+Doublade Defender теряет 3 здоровья.
+Doublade Defender не замечает воздействие типа FIGHTING
+
+Doublade Defender атакует. 
+Honedge Weat увеличивает специальную защиту.
+
+Honedge Weat атакует. 
+Doublade Defender теряет 3 здоровья.
+
+Doublade Defender атакует. 
+Honedge Weat увеличивает специальную защиту.
+
+Honedge Weat атакует. 
+Doublade Defender теряет 3 здоровья.
+Doublade Defender не замечает воздействие типа FIGHTING
+
+Doublade Defender атакует. 
+Honedge Weat теряет 3 здоровья.
+Honedge Weat не замечает воздействие типа FIGHTING
+
+Honedge Weat атакует. 
+Doublade Defender теряет 3 здоровья.
+Doublade Defender не замечает воздействие типа FIGHTING
+
+Doublade Defender атакует. 
+Honedge Weat увеличивает специальную защиту.
+
+Honedge Weat атакует. 
+Doublade Defender теряет 3 здоровья.
+Doublade Defender не замечает воздействие типа FIGHTING
+Doublade Defender теряет сознание.
+В команде белых не осталось покемонов.
+Команда желтых побеждает в этом бою!
+
+Process finished with exit code 0
